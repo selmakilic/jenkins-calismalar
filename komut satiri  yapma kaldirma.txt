@@ -1,0 +1,12 @@
+Visual Studio Code Yorum Satırı Yapma Kısayolu
+Visual Studio Code Yorum Satırı Yapma Kısayolu
+  Visual Studio Code   Mayıs 6, 2021   3   28156 Okuma Listesine Ekle
+Visual Studio Code Yorum Satırı Yapma Kısayolu kısayolu 
+
+CTRL + K + C  her 3 tuşa aynı anda basmanız gerekiyor. 
+yada yorum satırından kurtulmak içinse
+
+CTRL + K + U 
+Yine bunlara ek olarak CTRL + Ö harfine bakasabilirsiniz. 
+
+CRTL + Ö
